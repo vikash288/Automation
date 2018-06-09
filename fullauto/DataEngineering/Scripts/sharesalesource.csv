@@ -1,0 +1,6 @@
+Retailer Number,Retailer,Source/Affiliate Type,Connection Type,Username,Password,Server Name,Folder 1,Complete File Name,Incremental File Name,Delimiter,Staging table Name,Target Table,Full Load Flag,Incremental Load Flag,S3Flag,MySQLFlag,ESFlag
+34,Wayfair,Shareasale,FTP,pricedotcom,Price$2017$,datafeeds.shareasale.com,/11035,11035-49.zip ,11035-49.zip ,,,,1,1,1,1,1
+216,Reebok,Shareasale,FTP,pricedotcom,Price$2017$,datafeeds.shareasale.com,/45519,45519.zip,45519.zip,,,,1,1,1,1,1
+90,Modcloth,Shareasale,FTP,pricedotcom,Price$2017$,datafeeds.shareasale.com,/43745,43745.zip,43745.zip,,,,1,1,1,1,1
+180,US Polo Assn,Shareasale,FTP,pricedotcom,Price$2017$,datafeeds.shareasale.com,/66874,66874.txt,66874.txt,,,,1,1,1,1,1
+85,MPG Sport,Shareasale,FTP,pricedotcom,Price$2017$,datafeeds.shareasale.com,/65207,65207.zip,65207.zip,,,,1,1,1,1,1

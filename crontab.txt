@@ -1,0 +1,47 @@
+#CJ Full Load
+0 7 * * 0 /home/ubuntu/Automation/fullauto/DataEngineering/Scripts/shellscript/cjfull.sh
+
+#Linkshare Full Load
+0 7 * * 6 /home/ubuntu/Automation/fullauto/DataEngineering/Scripts/shellscript/linksharefull.sh
+
+#Papperjam Full
+#0 19 * * 6 /home/ubuntu/Automation/papperjam/DataEngineering/Scripts/shellscript/papperjamfull.sh
+
+#Implusradius
+#0 19 * * 0 /home/ubuntu/Automation/impactradius/DataEngineering/Scripts/shellscript/impactradiusfull.sh
+
+#Sharesale
+#0 21 * * 6 /home/ubuntu/Automation/sharesale/DataEngineering/Scripts/shellscript/sharesalefull.sh
+
+
+#Linkshare Incremental
+#30 7 * * 1,2,3,4,5 /home/ubuntu/Automation/fullauto/DataEngineering/Scripts/shellscript/linkshareincremental.sh
+
+
+#CJ Incremental
+#30 14 * * 1,2,3,4,5 /home/ubuntu/Automation/fullauto/DataEngineering/Scripts/shellscript/cjincremental.sh
+
+
+#Papperjam Incremental
+#30 16 * * 1,2,3,4,5 /home/ubuntu/Automation/papperjam/DataEngineering/Scripts/shellscript/papperjamincremental.sh
+
+#Impactradius Incremental
+#30 17 * * 1,2,3,4,5 /home/ubuntu/Automation/impactradius/DataEngineering/Scripts/shellscript/impactradiusincremental.sh
+
+
+#Sharesale Incremental
+#30 22 * * 1,2,3,4,5 /home/ubuntu/Automation/sharesale/DataEngineering/Scripts/shellscript/sharesaleincremental.sh
+
+
+
+
+#NonUPC 2 Reatiler
+#30 18 * * 1,2,3,4,5,6,0 /home/ubuntu/Automation/nonupc2retailer/DataEngineering/Scripts/shellscript/nonupc2retailer.sh
+
+#Amazon Reatiler
+#30 16 * * 1,2,3,4,5,6,0 /home/ubuntu/Automation/amazonauto/amazonscheduler.sh
+
+
+#Ebay Reatiler
+#30 20 * * 1,2,3,4,5,6,0 /home/ubuntu/Automation/ebayused/ebayscheduler.sh
+

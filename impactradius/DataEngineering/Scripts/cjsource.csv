@@ -1,0 +1,55 @@
+Retailer Number,Retailer,Source/Affiliate Type,Connection Type,Username,Password,Server Name,Folder 1,Complete File Name,Incremental File Name,Delimiter,Staging table Name,Target Table,Full Load Flag,Incremental Load Flag,S3Flag,MySQLFlag,ESFlag
+160,AC Lens,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,AC_Lens-ACLens_com_Main_Product_Catalog.txt.gz,AC_Lens-ACLens_com_Main_Product_Catalog.txt.gz,,,,1,1,1,1,1
+59,Academy Sports + Outdoors,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Academy_Sports_Outdoor_Affiliate-Academy_Product_Catalog.txt.gz,Academy_Sports_Outdoor_Affiliate-Academy_Product_Catalog.txt.gz,,,,1,1,1,1,1
+177,AutoZone,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,AutoZone-Autozone_Product_Catalog.txt.gz,AutoZone-Autozone_Product_Catalog.txt.gz,,,,1,1,1,1,1
+63,Case-Mate,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Case_Mate-Case_Mate_Product_Catalog.txt.gz,Case_Mate-Case_Mate_Product_Catalog.txt.gz,,,,1,1,1,1,1
+66,Clarks,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Clarks-Product_Catalog_with_Inventory_field_child_variant_SKU_Updated_April_2017.txt.gz,Clarks-Product_Catalog_with_Inventory_field_child_variant_SKU_Updated_April_2017.txt.gz,,,,1,1,1,1,1
+58,Columbia,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Columbia_Sportswear-Columbia_Product_Catalog.txt.gz,Columbia_Sportswear-Columbia_Product_Catalog.txt.gz,,,,1,1,1,1,1
+157,discountcontactlenses.com,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,DiscountContactLenses_com-Product_Catalog.txt.gz,DiscountContactLenses_com-Product_Catalog.txt.gz,,,,1,1,1,1,1
+39,Easy Spirit,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Easy_Spirit-Easy_Spirit_Shoes_Product_Catalog.txt.gz,Easy_Spirit-Easy_Spirit_Shoes_Product_Catalog.txt.gz,,,,1,1,1,1,1
+174,giggle,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,giggle-Product_Catalog.txt.gz,giggle-Product_Catalog.txt.gz,,,,1,1,1,1,1
+37,Kmart,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Kmart-Product_Catalog.txt.gz,Kmart-Product_Catalog.txt.gz,,,,1,1,1,1,1
+41,L'Occitane en Provence,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,L_Occitane_en_Provence-Product_Catalog.txt.gz,L_Occitane_en_Provence-Product_Catalog.txt.gz,,,,1,1,1,1,1
+67,Luxomo,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Luxomo-Luxomo_Product_Catalog.txt.gz,Luxomo-Luxomo_Product_Catalog.txt.gz,,,,1,1,1,1,1
+153,Monster,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Monster_Products-Monster_Products_Catalog.txt.gz,Monster_Products-Monster_Products_Catalog.txt.gz,,,,1,1,1,1,1
+5,Newegg,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Newegg_com-Newegg_com_Product_Catalog.txt.gz,Newegg_com-Newegg_com_Product_Catalog.txt.gz,,,,1,1,1,1,1
+43,OtterBox,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,OtterBox-Product_Catalog.txt.gz,OtterBox-Product_Catalog.txt.gz,,,,1,1,1,1,1
+6,Petco,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,PETCO_Animal_Supplies-Product_Catalog.txt.gz,PETCO_Animal_Supplies-Product_Catalog.txt.gz,,,,1,1,1,1,1
+69,Rockport,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Rockport-Rockport_Product_Catalog.txt.gz,Rockport-Rockport_Product_Catalog.txt.gz,,,,1,1,1,1,1
+38,Sears,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Sears-Sears_Product_Catalog.txt.gz,Sears-Sears_Product_Catalog.txt.gz,,,,1,1,1,1,1
+60,SHOEBACCA,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,SHOEBACCA_com-Product_Catalog.txt.gz,SHOEBACCA_com-Product_Catalog.txt.gz,,,,1,1,1,1,1
+140,Skins,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,SKINS-SKINS_USA.txt.gz,SKINS-SKINS_USA.txt.gz,,,,1,1,1,1,1
+71,Sorel,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Sorel-Product_Catalog.txt.gz,Sorel-Product_Catalog.txt.gz,,,,1,1,1,1,1
+97,Swarovski ,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Swarovski_The_Magic_of_Crystal-Productfeed_US_US_prices_and_descriptions.txt.gz,Swarovski_The_Magic_of_Crystal-Productfeed_US_US_prices_and_descriptions.txt.gz,,,,1,1,1,1,1
+159,The House,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,The_House-Online_Catalog.txt.gz,The_House-Online_Catalog.txt.gz,,,,1,1,1,1,1
+101,TigerDirect,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Tiger_Direct-Tiger_Direct_Product_Catalog.txt.gz,Tiger_Direct-Tiger_Direct_Product_Catalog.txt.gz,,,,1,1,1,1,1
+42,Tipsy Elves,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Tipsy_Elves-Tipsy_Elves_Product_Catalog.txt.gz,Tipsy_Elves-Tipsy_Elves_Product_Catalog.txt.gz,,,,1,1,1,1,1
+119,Walgreen's,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Walgreens-Product_Catalog.txt.gz,Walgreens-Product_Catalog.txt.gz,,,,1,1,1,1,1
+96,White House Black Market,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,White_House_Black_Market-White_House_Black_Market.txt.gz,White_House_Black_Market-White_House_Black_Market.txt.gz,,,,1,1,1,1,1
+199,The Walking Company,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,The_Walking_Company-The_Walking_Company_Product_Catalog.txt.gz,The_Walking_Company-The_Walking_Company_Product_Catalog.txt.gz,,,,1,1,1,1,1
+209,Sunglass Hut,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Sunglass_Hut_Affiliate_Program-Sunglass_Hut_Product_Catalog.txt.gz,Sunglass_Hut_Affiliate_Program-Sunglass_Hut_Product_Catalog.txt.gz,,,,1,1,1,1,1
+213,Abt Electronics,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Abt_Electronics-Abt_Electronics_Product_Catalog.txt.gz,Abt_Electronics-Abt_Electronics_Product_Catalog.txt.gz,,,,1,1,1,1,1
+87,Adidas Golf,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,adidas_Golf-Adidas_Golf_Product_Catalog.txt.gz,adidas_Golf-Adidas_Golf_Product_Catalog.txt.gz,,,,1,1,1,1,1
+117,Michaels,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Michaels_Stores-Michaels_Product_Catalog.txt.gz,Michaels_Stores-Michaels_Product_Catalog.txt.gz,,,,1,1,1,1,1
+210,Ray-Ban,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Ray_Ban-Ray_Ban_Product_Catalog.txt.gz,Ray_Ban-Ray_Ban_Product_Catalog.txt.gz,,,,1,1,1,1,1
+215,Vitamin Shoppe,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Vitamin_Shoppe-Product_Catalog.txt.gz,Vitamin_Shoppe-Product_Catalog.txt.gz,,,,1,1,1,1,1
+219,Crayola,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Crayola-Crayola_Product_Catalog.txt.gz,Crayola-Crayola_Product_Catalog.txt.gz,,,,1,1,1,1,1
+224,Tommy Bahama,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Tommy_Bahama-Tommy_Bahama_Product_Catalog.txt.gz,Tommy_Bahama-Tommy_Bahama_Product_Catalog.txt.gz,,,,1,1,1,1,1
+225,True Value Hardware,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,True_Value_Hardware-Product_Catalog.txt.gz,True_Value_Hardware-Product_Catalog.txt.gz,,,,1,1,1,1,1
+222,Lids,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Hat_World_Lids-Lids_com_Product_Catalog.txt.gz,Hat_World_Lids-Lids_com_Product_Catalog.txt.gz,,,,1,1,1,1,1
+230,Build-A-Bear,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Build_A_Bear_US-Buildabear_com_Product_Catalog.txt.gz,Build_A_Bear_US-Buildabear_com_Product_Catalog.txt.gz,,,,1,1,1,1,1
+232,Brookstone,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Brookstone-Brookstone_Product_Catalog.txt.gz,Brookstone-Brookstone_Product_Catalog.txt.gz,,,,1,1,1,1,1
+218,Goodyear,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Goodyear_Tire-Goodyear_Product_Catalog.txt.gz,Goodyear_Tire-Goodyear_Product_Catalog.txt.gz,,,,1,1,1,1,1
+233,Paper Source,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Paper_Source-PaperSource_com_Product_Catalog.txt.gz,Paper_Source-PaperSource_com_Product_Catalog.txt.gz,,,,1,1,1,1,1
+235,Office Depot,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Office_Depot_and_OfficeMax_-Product_Catalog.txt.gz,Office_Depot_and_OfficeMax_-Product_Catalog.txt.gz,,,,1,1,1,1,1
+237,Big Lots!,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Big_Lots_-Big_Lots_Product_Catalog.txt.gz,Big_Lots_-Big_Lots_Product_Catalog.txt.gz,,,,1,1,1,1,1
+238,Hudson Jeans,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Hudson_Jeans-Hudson_Jeans_Product_Catalog.txt.gz,Hudson_Jeans-Hudson_Jeans_Product_Catalog.txt.gz,,,,1,1,1,1,1
+239,Bass Pro Shops,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Bass_Pro_Shops-Product_Catalog.txt.gz,Bass_Pro_Shops-Product_Catalog.txt.gz,,,,1,1,1,1,1
+240,Pharmapacks,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Pharmapacks-Pharmapacks_Product_Catalog.txt.gz,Pharmapacks-Pharmapacks_Product_Catalog.txt.gz,,,,1,1,1,1,1
+241,Jared The Galleria of Jewelry,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Jared_The_Galleria_of_Jewelry-Jared_Jewelers_Product_Catalog.txt.gz,Jared_The_Galleria_of_Jewelry-Jared_Jewelers_Product_Catalog.txt.gz,,,,1,1,1,1,1
+242,Kay Jewelers,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Kay_Jewelers-Kay_Jewelers_Product_Catalog.txt.gz,Kay_Jewelers-Kay_Jewelers_Product_Catalog.txt.gz,,,,1,1,1,1,1
+243,Samsung,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Samsung-Samsung_Product_Catalog.txt.gz,Samsung-Samsung_Product_Catalog.txt.gz,,,,1,1,1,1,1
+255,Home Depot,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Home_Depot-Home_Depot_Product_Catalog.txt.gz,Home_Depot-Home_Depot_Product_Catalog.txt.gz,,,,1,1,1,1,1
+266,Elizabeth Arden,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Elizabeth_Arden-Elizabeth_Arden_Product_Catalog.txt.gz,Elizabeth_Arden-Elizabeth_Arden_Product_Catalog.txt.gz,,,,1,1,1,1,1
+261,Hoover Dirt Devil Oreck,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Hoover_Dirt_Devil_and_Oreck-Dirt_Devil_Product_Catalog.txt.gz,Hoover_Dirt_Devil_and_Oreck-Dirt_Devil_Product_Catalog.txt.gz,,,,1,1,1,1,1
+150,NeweggBusiness.com,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Newegg_Business-Newegg_Business_Product_Catalog.txt.gz,Newegg_Business-Newegg_Business_Product_Catalog.txt.gz,,,,1,1,1,1,1

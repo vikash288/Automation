@@ -1,0 +1,31 @@
+Retailer Number,Retailer,Source/Affiliate Type,Connection Type,Username,Password,Server Name,Folder 1,Complete File Name,Incremental File Name,Delimiter,Staging table Name,Target Table,Full Load Flag,Incremental Load Flag,S3Flag,MySQLFlag,ESFlag
+160,AC Lens,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,AC_Lens-ACLens_com_Main_Product_Catalog.txt.gz,AC_Lens-ACLens_com_Main_Product_Catalog.txt.gz,,,,1,1,1,1,1
+59,Academy Sports + Outdoors,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Academy_Sports_Outdoor_Affiliate-Academy_Product_Catalog.txt.gz,Academy_Sports_Outdoor_Affiliate-Academy_Product_Catalog.txt.gz,,,,1,1,1,1,1
+177,AutoZone,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,AutoZone-Autozone_Product_Catalog.txt.gz,AutoZone-Autozone_Product_Catalog.txt.gz,,,,1,1,1,1,1
+63,Case-Mate,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Case_Mate-Case_Mate_Product_Catalog.txt.gz,Case_Mate-Case_Mate_Product_Catalog.txt.gz,,,,1,1,1,1,1
+66,Clarks,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Clarks-Product_Catalog_with_Inventory_field_child_variant_SKU_Updated_April_2017.txt.gz,Clarks-Product_Catalog_with_Inventory_field_child_variant_SKU_Updated_April_2017.txt.gz,,,,1,1,1,1,1
+58,Columbia,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Columbia_Sportswear-Columbia_Product_Catalog.txt.gz,Columbia_Sportswear-Columbia_Product_Catalog.txt.gz,,,,1,1,1,1,1
+157,discountcontactlenses.com,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,DiscountContactLenses_com-Product_Catalog.txt.gz,DiscountContactLenses_com-Product_Catalog.txt.gz,,,,1,1,1,1,1
+39,Easy Spirit,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Easy_Spirit-Easy_Spirit_Shoes_Product_Catalog.txt.gz,Easy_Spirit-Easy_Spirit_Shoes_Product_Catalog.txt.gz,,,,1,1,1,1,1
+174,giggle,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,giggle-Product_Catalog.txt.gz,giggle-Product_Catalog.txt.gz,,,,1,1,1,1,1
+37,Kmart,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Kmart-Product_Catalog.txt.gz,Kmart-Product_Catalog.txt.gz,,,,1,1,1,1,1
+41,L'Occitane en Provence,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,L_Occitane_en_Provence-Product_Catalog.txt.gz,L_Occitane_en_Provence-Product_Catalog.txt.gz,,,,1,1,1,1,1
+67,Luxomo,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Luxomo-Luxomo_Product_Catalog.txt.gz,Luxomo-Luxomo_Product_Catalog.txt.gz,,,,1,1,1,1,1
+153,Monster,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Monster_Products-Monster_Products_Catalog.txt.gz,Monster_Products-Monster_Products_Catalog.txt.gz,,,,1,1,1,1,1
+5,Newegg -,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Newegg_com-NeweggFlash_Product_Catalog.txt,Newegg_com-NeweggFlash_Product_Catalog.txt,,,,1,1,1,1,1
+43,OtterBox,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,OtterBox-Product_Catalog.txt.gz,OtterBox-Product_Catalog.txt.gz,,,,1,1,1,1,1
+6,Petco,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,PETCO_Animal_Supplies-Product_Catalog.txt.gz,PETCO_Animal_Supplies-Product_Catalog.txt.gz,,,,1,1,1,1,1
+123,Razer,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Razer_US-RazerZone_com_Product_Catalog.txt.gz,Razer_US-RazerZone_com_Product_Catalog.txt.gz,,,,1,1,1,1,1
+69,Rockport,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Rockport-Rockport_Product_Catalog.txt.gz,Rockport-Rockport_Product_Catalog.txt.gz,,,,1,1,1,1,1
+38,Sears,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Sears-Sears_Product_Catalog.txt.gz,Sears-Sears_Product_Catalog.txt.gz,,,,1,1,1,1,1
+60,SHOEBACCA,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,SHOEBACCA_com-Product_Catalog.txt.gz,SHOEBACCA_com-Product_Catalog.txt.gz,,,,1,1,1,1,1
+140,Skins,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,SKINS-SKINS_USA.txt.gz,SKINS-SKINS_USA.txt.gz,,,,1,1,1,1,1
+71,Sorel,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Sorel-Product_Catalog.txt.gz,Sorel-Product_Catalog.txt.gz,,,,1,1,1,1,1
+97,Swarovski ,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Swarovski_The_Magic_of_Crystal-Productfeed_US_US_prices_and_descriptions.txt.gz,Swarovski_The_Magic_of_Crystal-Productfeed_US_US_prices_and_descriptions.txt.gz,,,,1,1,1,1,1
+159,The House,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,The_House-Online_Catalog.txt.gz,The_House-Online_Catalog.txt.gz,,,,1,1,1,1,1
+101,TigerDirect,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Tiger_Direct-Tiger_Direct_Product_Catalog.txt.gz,Tiger_Direct-Tiger_Direct_Product_Catalog.txt.gz,,,,1,1,1,1,1
+42,Tipsy Elves,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Tipsy_Elves-Tipsy_Elves_Product_Catalog.txt.gz,Tipsy_Elves-Tipsy_Elves_Product_Catalog.txt.gz,,,,1,1,1,1,1
+119,Walgreen's,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Walgreens-Product_Catalog.txt.gz,Walgreens-Product_Catalog.txt.gz,,,,1,1,1,1,1
+96,White House Black Market,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,White_House_Black_Market-White_House_Black_Market.txt.gz,White_House_Black_Market-White_House_Black_Market.txt.gz,,,,1,1,1,1,1
+199,The Walking Company,CJ,FTP,4708604,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,The_Walking_Company-The_Walking_Company_Product_Catalog.txt.gz,The_Walking_Company-The_Walking_Company_Product_Catalog.txt.gz,,,,1,1,1,1,1
+209,Sunglass Hut,CJ,FTP,4708604,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Sunglass_Hut_Affiliate_Program-Sunglass_Hut_Product_Catalog.txt.gz,Sunglass_Hut_Affiliate_Program-Sunglass_Hut_Product_Catalog.txt.gz,,,,1,1,1,1,1

@@ -1,0 +1,38 @@
+214933,Retailer,Source/Affiliate Type,Connection Type,Username,Password,Server Name,Folder 1,Complete Load File Name,Incremental Load File Name ,Delimiter,Staging table Name,Target Table,Full Load Flag,Increment Load Flag,S3Flag,MySQLFlag,ESFlag
+137,Ann Taylor,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,42156_3310515_mp.txt.gz,42156_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+11,Best Buy,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,38606_3310515_mp.txt.gz,38606_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+12,Bloomingdale's,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,13867_3310515_mp.txt.gz,13867_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+52,Dean and Deluca,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,40565_3310515_mp.txt.gz,40565_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+45,Dr. Scholl's Shoes,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,38503_3310515_mp.txt.gz,38503_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+13,Finish Line,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,37731_3310515_mp.txt.gz,37731_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+176,Fisher-Price,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,40690_3310515_mp.txt.gz,40690_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+167,fye,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,24416_3310515_mp.txt.gz,24416_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+15,Gaiam,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,2311_3310515_mp.txt.gz,2311_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+57,JCPenney,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,788_3310515_mp.txt.gz,788_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+18,Kohl's,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,38605_3310515_mp.txt.gz,38605_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+185,LOFT,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,42157_3310515_mp.txt.gz,42157_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+99,Macy's,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,3184_3310515_mp.txt.gz,3184_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+53,Melissa and Doug,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,41493_3310515_mp.txt.gz,41493_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+22,Nordstrom,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,1237_3310515_mp.txt.gz,1237_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+54,Panasonic,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,36726_3310515_mp.txt.gz,36726_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+115,Rakuten,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,36342_3310515_mp.txt.gz,36342_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+25,Sam's Club,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,38733_3310515_mp.txt.gz,38733_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+26,Sierra Trading Post,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,2640_3310515_mp.txt.gz,2640_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+134,Sperry,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,38654_3310515_mp.txt.gz,38654_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+133,Spring,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,41558_3310515_mp.txt.gz,41558_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+169,Starbucks,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,37174_3310515_mp.txt.gz,37174_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+172,Steve Madden,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,37487_3310515_mp.txt.gz,37487_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+113,Stride Rite,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,38655_3310515_mp.txt.gz,38655_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+156,Tahari ASL,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,41586_3310515_mp.txt.gz,41586_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+118,The Men's Wearhouse,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,41420_3310515_mp.txt.gz,41420_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+44,Timex,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,39818_3310515_mp.txt.gz,39818_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+130,TOMS Shoes,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,38583_3310515_mp.txt.gz,38583_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+27,Walmart,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,2149_3310515_mp.txt.gz,2149_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+186,Samsonite,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,36605_3310515_mp.txt.gz,36605_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+212,Neiman Marcus,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,25003_3310515_mp.txt.gz,25003_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+214,Tommy Hilfiger,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,42666_3310515_mp.txt.gz,42666_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+217,Sur La Table,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,42644_3310515_mp.txt.gz,42644_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+194,Betsey Johnson,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,37850_3310515_mp.txt.gz,37850_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+196,e.l.f. cosmetics,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,39724_3310515_mp.txt.gz,39724_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+192,G by Guess,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,41964_3310515_mp.txt.gz,41964_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1
+190,Guess,Linkshare,FTP,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,41808_3310515_mp.txt.gz,41808_3310515_mp_delta.txt.gz,|,,,1,1,1,1,1

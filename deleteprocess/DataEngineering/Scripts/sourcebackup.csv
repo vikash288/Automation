@@ -1,0 +1,69 @@
+Retailer Number,Retailer,Source/Affiliate Type,Username,Password,Server Name,Folder 1,File Name,Staging table Name,Target Table,S3Flag,MySQLFlag,ESFlag
+7,TJ Maxx,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608,TJ_Maxx-TJ_Maxx_Product_Catalog.txt.gz,production.STG_TJ_MAXX_CJ_W,PRICE_DOT_COM_TRGT.TRGT_TJ_MAXX_CJ,0,0,0
+2,Express,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608,Express-Product_Catalog_Exploded_Feed.txt.gz,,,0,,
+5,Newegg,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608,Newegg_com-NeweggFlash_Product_Catalog.txt.gz,,,,,
+8,Touch of Modern,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608,Touch_Of_Modern-Touch_of_Modern_Product_Catalog.txt.gz,,,,,
+4,Groupon,CJ,4708603,oRvGWar%,datatransfer.cj.com,Groupon,NO FILE,,,,,
+6,Petco,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,PETCO_Animal_Supplies-Product_Catalog.txt.gz,,PRICE_DOT_COM_TRGT.TRGT_PETCO_CJ,0,0,0
+1,Bambeco,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,bambeco-Bambeco_com_Product_Catalog.txt.gz,,,,,
+3,Forever 21,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/186334,Forever_21-Forever_21_Product_Catalog.txt.gz,,,,,
+9,Target,Impact Radius,ps-ftp_11061,qJaJLi6L26,products.impactradius.com,/Target,Target-Product-Feed-Commissioned-Items_IR.txt,,,,,
+27,Walmart,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,/2149,2149_3310515_mp.txt.gz,,,,,
+11,Best Buy,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,/38606,38606_3310515_mp.txt.gz,,,,,
+25,Sam's Club,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,/38733_3310515_mp.txt.gz,,,0,,
+12,Bloomingdale's,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,13867_3310515_mp.txt.gz,,,0,,
+18,Kohl’s,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,/38605,38605_3310515_mp.txt.gz,,,,,
+22,Nordstrom,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,/1237,1237_3310515_mp.txt.gz,,,,,
+20,LEGO,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,13923_3310515_mp.txt.gz,,,0,,
+34,Wayfair,Shareasale,pricedotcom,Price$2017$,datafeeds.shareasale.com,/11035,11035-49.zip,,,1,,
+23,Orvis,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,38663_3310515_mp.txt.gz,,,0,,
+15,Gaiam,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,2311_3310515_mp.txt.gz,,,0,,
+26,Sierra Trading Post,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,/2640,2640_3310515_mp.txt.gz,,,,,
+13,Finish Line,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,/37731,37731_3310515_mp.txt.gz,production.STG_FINISH_LINE_LINKSHARE_W,PRICE_DOT_COM_TRGT.TRGT_FINISH_LINE_LINKSHARE,0,0,0
+14,Folica,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,/38518,NO FILE,,,,,
+17,Johnston & Murphy,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,38419_3310515_mp.txt.gz,,,0,,
+16,Jet.com,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,41098_3310515_mp.txt.gz,,,1,,
+10,Ashley Homestore,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,40094_3310515_mp.txt.gz,,,0,,
+19,LampsPlus.com,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,24278_3310515_mp.txt.gz,,,0,,
+21,New Balance,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,39756_3310515_mp.txt.gz,,,0,,
+32,Rite Aid,Pepper Jam,,,,,https://s3.amazonaws.com/price.com-affiliatefeed/Rite+Aid/Rite+Aid+products.csv,,,0,,
+29,Burlington,Pepper Jam,,,,,https://s3.amazonaws.com/price.com-affiliatefeed/Burlington/Burlington+products.csv,,,0,,
+28,Bebe,Pepper Jam,,,,,https://s3.amazonaws.com/price.com-affiliatefeed/Bebe/Bebe+products.csv,,,0,,
+31,Puma,Pepper Jam,,,,,https://s3.amazonaws.com/price.com-affiliatefeed/Puma/Puma+products.csv,,,0,,
+33,Timberland,Pepper Jam,,,,,https://s3.amazonaws.com/price.com-affiliatefeed/Timberland/TImberland+products.csv,,,0,,
+30,Grace and Lace,Pepper Jam,,,,,https://s3.amazonaws.com/price.com-affiliatefeed/Grace+and+Lace/Grace+and+LAce+products.csv,,,0,,
+35,B&H Photo Video,www.affiliates.bhphotovideo.com,,pricefash10N,Click on ‘DataFeed’ tab,11124,,,,,,
+36,FORZIERI,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,1805,1805_3310515_100216974_cmp.txt.gz,,,0,0,0
+37,Kmart,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Kmart-Product_Catalog.txt.gz,,PRICE_DOT_COM_TRGT.TRGT_KMART_CJ,0,0,0
+38,Sears,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Sears-Sears_Product_Catalog.txt.gz,,PRICE_DOT_COM_TRGT.TRGT_SEARS_CJ,0,0,1
+39,Easy Spirit,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Easy_Spirit-Easy_Spirit_Shoes_Product_Catalog.txt.gz,,,,,
+40,Cost Plus World Market,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Cost_Plus_World_Market-Cost_Plus_World_Market.txt.gz,,,,,
+41,L'Occitane en Provence,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,L_Occitane_en_Provence-Product_Catalog.txt.gz,,,,,
+42,Tipsy Elves,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Tipsy_Elves-Tipsy_Elves_Product_Catalog.txt.gz,,,,,
+43,OtterBox,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,OtterBox-Product_Catalog.txt.gz,,PRICE_DOT_COM_TRGT.TRGT_OTTERBOX_CJ,0,0,0
+44,Timex,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,39818_3310515_mp.txt.gz,,,0,,
+45,Dr. Scholl's Shoes,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,38503_3310515_mp.txt.gz,,,0,,
+46,Wei Beauty,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,40906_3310515_mp.txt.gz,,,0,,
+47,halloweencostumes.com,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,41272_3310515_mp.txt.gz,,,0,,
+48,Tumi,Pepper Jam,,,,,https://s3.amazonaws.com/price.com-affiliatefeed/Tumi/Tumi+products.csv,,,0,,
+49,Campmor,Pepper Jam,,,,,https://s3.amazonaws.com/price.com-affiliatefeed/Campmor/Campmor+products.csv,,,0,,
+50,Modell's Sporting Goods,Pepper Jam,,,,,https://s3.amazonaws.com/price.com-affiliatefeed/Modell%27s+Sporting+Good/Modells+products.csv,,,0,,
+51,SpiritHalloween.com,Pepper Jam,,,,8099,https://s3.amazonaws.com/price.com-affiliatefeed/Spirit+Halloween/Spirit+Halloween+products.csv,,,0,,
+52,Dean and Deluca,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,40565_3310515_mp.txt.gz,,,0,,
+53,Melissa and Doug,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,41493_3310515_mp.txt.gz,,,0,,
+54,Panasonic,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,36726_3310515_mp.txt.gz,,,0,,
+55,Microsoft,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,..,24542_3310515_mp.txt.gz,,,0,,
+56,Speck,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,40350,NO FILE,,,,,
+57,JCPenney,Linkshare,pricedotcom,JsGM93Yh,aftp.linksynergy.com,788,NO FILE,,,,,
+58,Columbia,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,,,,,,
+59,Academy Sports + Outdoors,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,,,,,,
+60,SHOEBACCA,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,SHOEBACCA_com-Product_Catalog.txt.gz,,,,,
+61,Outdoor Technology,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Outdoor_Tech-OutdoorTechnology_com_Product_Catalog_.txt.gz,,,0,0,0
+62,JustFab,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,JustFab_com-JustFab_US_Product_Catalog.txt.gz,,,0,0,0
+63,Case-Mate,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Case_Mate-Case_Mate_Product_Catalog.txt.gz,,,0,0,0
+64,Chinese Laundry,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Chinese_Laundry-Chinese_Laundry_Product_Catalog.txt.gz,,,0,0,0
+65,Clarks,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Clarks-Product_Catalog_at_Size_Level_child_variant_SKU_.txt.gz,,,0,0,0
+66,Jewelry.com,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Jewelry_com-Jewelry_com_Product_catalog.txt.gz,,,0,0,0
+67,Luxomo,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Luxomo-Luxomo_Product_Catalog.txt.gz,,,0,0,0
+68,MCM Electronics,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,MCM_Electronics-MCM_Electronics_Product_Catalog.txt.gz,,,0,0,0
+69,Rockport,CJ,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Rockport-Rockport_Product_Catalog.txt.gz,,,0,0,0

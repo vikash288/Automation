@@ -1,0 +1,13 @@
+Retailer Number,Retailer,Source/Affiliate Type,Connection Type,Username,Password,Server Name,Folder 1,Complete File Name,Incremental File Name,Delimiter,Staging table Name,Target Table,Full Load Flag,Incremental Load Flag,S3Flag,MySQLFlag,ESFlag
+213,Abt Electronics,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Abt_Electronics-Abt_Electronics_Product_Catalog.txt.gz,Abt_Electronics-Abt_Electronics_Product_Catalog.txt.gz,,,,1,1,1,1,1
+87,Adidas Golf,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,adidas_Golf-Adidas_Golf_Product_Catalog.txt.gz,adidas_Golf-Adidas_Golf_Product_Catalog.txt.gz,,,,1,1,1,1,1
+117,Michaels,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Michaels_Stores-Michaels_Product_Catalog.txt.gz,Michaels_Stores-Michaels_Product_Catalog.txt.gz,,,,1,1,1,1,1
+210,Ray-Ban,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Ray_Ban-Ray_Ban_Product_Catalog.txt.gz,Ray_Ban-Ray_Ban_Product_Catalog.txt.gz,,,,1,1,1,1,1
+150,NeweggBusiness.com,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Newegg_Business-Newegg_Business_Product_Catalog.txt.gz,Newegg_Business-Newegg_Business_Product_Catalog.txt.gz,,,,1,1,1,1,1
+215,Vitamin Shoppe,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Vitamin_Shoppe-Product_Catalog.txt.gz,Vitamin_Shoppe-Product_Catalog.txt.gz,,,,1,1,1,1,1
+219,Crayola,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Crayola-Crayola_Product_Catalog.txt.gz,Crayola-Crayola_Product_Catalog.txt.gz,,,,1,1,1,1,1
+224,Tommy Bahama,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Tommy_Bahama-Tommy_Bahama_Product_Catalog.txt.gz,Tommy_Bahama-Tommy_Bahama_Product_Catalog.txt.gz,,,,1,1,1,1,1
+225,True Value Hardware,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,True_Value_Hardware-Product_Catalog.txt.gz,True_Value_Hardware-Product_Catalog.txt.gz,,,,1,1,1,1,1
+222,Lids,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Hat_World_Lids-Lids_com_Product_Catalog.txt.gz,Hat_World_Lids-Lids_com_Product_Catalog.txt.gz,,,,1,1,1,1,1
+230,Build-A-Bear,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Build_A_Bear_US-Buildabear_com_Product_Catalog.txt.gz,Build_A_Bear_US-Buildabear_com_Product_Catalog.txt.gz,,,,1,1,1,1,1
+232,Brookstone,CJ,FTP,4708603,oRvGWar%,datatransfer.cj.com,/outgoing/productcatalog/194608/,Brookstone-Brookstone_Product_Catalog.txt.gz,Brookstone-Brookstone_Product_Catalog.txt.gz,,,,1,1,1,1,1

@@ -1,0 +1,51 @@
+Affiliate Name,Step 1,Step 2,Step 3,Step 4 ,Step 5,Flag
+LinkShare,"Insert into UPC_COMMON_ID_MAP2
+ Select TGT.COMMON_ID, SRC.UPC, SRC.Retailer_code, SRC.ITEM_ID from
+(SELECT
+    FIELD_24 AS UPC,
+    $Y AS RETAILER_CODE,
+    FIELD_1 AS ITEM_ID
+  FROM $X
+  WHERE FIELD_24 <> 'UPC' AND FIELD_24 IS NOT NULL AND FIELD_24 <> ' ' AND FIELD_24 REGEXP '^[0-9]+$'
+  GROUP BY UPC, RETAILER_CODE
+) SRC
+JOIN UPC_COMMON_ID_MAP2 TGT
+ON SRC.UPC = TGT.UPC
+and TGT.RETAILER_CODE <> $Y
+group by 1,2,3,4",Truncate UPC_COMMON_ID_MAP_W3,"Insert into UPC_COMMON_ID_MAP_W3 (
+  UPC,
+  RETAILER_CODE,
+  ITEM_ID
+)
+ Select SRC.UPC, SRC.Retailer_code, SRC.ITEM_ID from
+(SELECT
+    FIELD_24 AS UPC,
+    $Y AS RETAILER_CODE,
+    FIELD_1 AS ITEM_ID
+  FROM $X
+  WHERE FIELD_24 <> 'UPC' AND FIELD_24 IS NOT NULL AND FIELD_24 <> ' ' AND FIELD_24 REGEXP '^[0-9]+$'
+ GROUP BY UPC, RETAILER_CODE
+) SRC
+LEFT JOIN UPC_COMMON_ID_MAP2 TGT
+ON SRC.UPC = TGT.UPC
+where TGT.UPC is null
+;","Insert into UPC_COMMON_ID_MAP2
+Select common_id + (Select max(common_id) from UPC_COMMON_ID_MAP2), upc, retailer_code, ITEM_ID
+from UPC_COMMON_ID_MAP_W3;","create table $Z
+select
+  a.FIELD_1 as ITEM_ID,
+  a.FIELD_2 as TITLE,
+  a.FIELD_24 as UPC,
+  a.FIELD_6 as PRODUCT_URL,
+  a.FIELD_7 as IMAGE_URL,
+  a.FIELD_8 as AFFILIATE_URL,
+  b.common_id as PRICE_ID,
+  a.FIELD_13 + ' ' AS PRICE1,
+  a.FIELD_14 + ' ' AS PRICE2
+from $X a, UPC_COMMON_ID_MAP2 b
+where a.FIELD_24 = b.upc
+and b.retailer_code = $Y
+and a.FIELD_24 <> 'UPC'
+and a.FIELD_24 is not null AND FIELD_24 REGEXP '^[0-9]+$'
+and a.FIELD_24 <> ' '
+and length(a.FIELD_24) < 51 ;",1

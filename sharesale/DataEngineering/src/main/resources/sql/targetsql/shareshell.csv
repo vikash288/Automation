@@ -1,0 +1,59 @@
+Affiliate Name,Step 1,Step 2,Step 3,Step 4 ,Step 5,Flag
+Shareshell,"Insert ignore into UPC_COMMON_ID_MAP2
+ Select TGT.COMMON_ID, SRC.UPC, SRC.Retailer_code, SRC.ITEM_ID, NOW() from
+(SELECT
+    FIELD_26 AS UPC,
+    $Y AS RETAILER_CODE,
+    FIELD_1 AS ITEM_ID
+  FROM $X
+  WHERE FIELD_26 <> 'UPC' AND FIELD_26 IS NOT NULL AND FIELD_26 <> ' ' AND FIELD_26 REGEXP '^[0-9]+$'
+  GROUP BY UPC, RETAILER_CODE
+) SRC
+JOIN UPC_COMMON_ID_MAP2 TGT
+ON SRC.UPC = TGT.UPC
+and TGT.RETAILER_CODE <> $Y and TGT.RETAILER_CODE is null
+group by 1,2,3,4
+;",Truncate UPC_COMMON_ID_MAP_W3,"Insert ignore into UPC_COMMON_ID_MAP_W3 (
+  UPC,
+  RETAILER_CODE,
+  ITEM_ID,
+  AUDITTIME
+)
+ Select SRC.UPC, SRC.Retailer_code, SRC.ITEM_ID, NOW() from
+(SELECT
+    FIELD_26 AS UPC,
+    $Y AS RETAILER_CODE,
+    FIELD_1 AS ITEM_ID
+  FROM $X
+  WHERE FIELD_26 <> 'UPC' AND FIELD_26 IS NOT NULL AND FIELD_26 <> ' ' and FIELD_26 REGEXP '^[0-9]+$' 
+ GROUP BY UPC, RETAILER_CODE
+) SRC
+LEFT JOIN UPC_COMMON_ID_MAP2 TGT
+ON SRC.UPC = TGT.UPC
+where TGT.UPC is null
+;","Insert ignore into UPC_COMMON_ID_MAP2
+Select common_id + (Select max(common_id) from UPC_COMMON_ID_MAP2), upc, retailer_code, ITEM_ID, AUDITTIME
+from UPC_COMMON_ID_MAP_W3;","create table $Z ignore
+select
+  a.FIELD_1 as ITEM_ID,
+  a.FIELD_2 as TITLE,
+  a.FIELD_12 as DESCRIPTION,
+  '' as COLOR,
+  '' as SIZE,
+  a.FIELD_26 as UPC,
+  REPLACE(a.FIELD_5,'YOURUSERID','1272520') as PRODUCT_URL,
+  a.FIELD_7 as IMAGE_URL,
+  REPLACE(a.FIELD_5,'YOURUSERID','1272520') as AFFILIATE_URL,
+  b.common_id as PRICE_ID,
+  a.FIELD_9 + ' ' AS PRICE1,
+  a.FIELD_8 + ' ' AS PRICE2,
+  a.FIELD_21 as MPN,
+  a.FIELD_20 as MANUFACTURER,
+  NOW() as TIMEAUDIT
+from $X a, UPC_COMMON_ID_MAP2 b
+where a.FIELD_26 = b.upc
+and b.retailer_code = $Y 
+and a.FIELD_26 <> 'UPC'
+and a.FIELD_26 is not null
+and a.FIELD_26 <> ' '
+and length(a.FIELD_26) < 51 ;",1

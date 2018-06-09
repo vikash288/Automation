@@ -1,0 +1,3 @@
+Retailer no,Retailer,Source/Affiliate Type,Connection Type,Username,Password,Server Name,Folder 1,Complete Load File Name,Incremental Load File Name ,Delimiter,Staging table Name,Target Table,Full Load Flag,Increment Load Flag,S3Flag,MySQLFlag,ESFlag
+203,The RealReal,Shareasale,FTP,pricedotcom,Price$2017$,datafeeds.shareasale.com,/32926,32926.zip,,|,PRICE_NOUPC_STG.STG_REALREAL_SHARESALE_DEMO_W,,1,1,1,1,1
+265,Snobswap,google,HTTP,,,https://snobswap.com/googleshopping.csv,,,,",",PRICE_NOUPC_STG.STG_SNOBSWAP_DEMO_W,,1,1,1,1,1

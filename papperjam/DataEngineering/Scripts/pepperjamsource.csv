@@ -1,0 +1,28 @@
+Retailer Number,Retailer,Source/Affiliate Type,Connection Type,Username,Password,Server Name,Folder 1,Complete File Name,Incremental File Name,Delimiter,Staging table Name,Target Table,Full Load Flag,Incremental Load Flag,S3Flag,MySQLFlag,ESFlag
+74,Dazadi ,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=6232&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+77,Marmot,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=7136&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+81,Aeropostale,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=5423&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+72,CellularOutfitter.com Dynamic,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=8148&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+73,CostumeKingdom.com,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=1036&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+103,Dunkin' Donuts Shop,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=8263&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+105,Irv's Luggage,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=2109&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+110,Bluemercury,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=7270&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+112,Skechers,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=8095&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+49,Campmor,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=6673&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+107,Kipling,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=5362&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+195,VIZIO,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=8436&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+50,Modell's Sporting Goods,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=7726&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+51,SpiritHalloween.com,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=8099&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+30,Grace and Lace,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=7192&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+29,Burlington,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=7955&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+31,Puma,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=6569&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+33,Timberland,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=5786&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+75,Design Within Reach,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=7007&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+76,Diane von Furstenberg - DVF,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=6046&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+106,Jones NY,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=8372&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+108,Michael Stars,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=8087&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+109,Paige Denim,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=8043&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+121,Speedo,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=4465&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+124,Bonobos,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=8413&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+201,Eagle Creek,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=8116&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1
+207,Herman Miller,papperjam,HTTP,,,http://feeds.pepperjamnetwork.com/product-catalog/download/?affiliate_id=3333&advertisers%5B0%5D=7838&target=_self&delimiter=comma,,,,",",,,1,1,1,1,1

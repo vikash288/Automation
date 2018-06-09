@@ -1,0 +1,10 @@
+Retailer Number,Retailer,Source/Affiliate Type,Connection Type,Username,Password,Server Name,Folder 1,Complete File Name,Incremental File Name,Delimiter,Staging table Name,Target Table,Full Load Flag,Incremental Load Flag,S3Flag,MySQLFlag,ESFlag
+9,Target,impactradius,FTP,ps-ftp_11061,qJaJLi6L26,products.impactradius.com,Target,Target-Product-Feed-All-Items_IR.txt.gz,Target-Product-Feed-All-Items_IR.txt.gz,,,,1,1,1,1,1
+92,The Childrens Place,impactradius,FTP,ps-ftp_11061,qJaJLi6L26,products.impactradius.com,The-Childrens-Place,Childrens-Place-Product-Feed_IR.txt.gz,Childrens-Place-Product-Feed_IR.txt.gz,,,,1,1,1,1,1
+131,Moosejaw,impactradius,FTP,ps-ftp_11061,qJaJLi6L26,products.impactradius.com,Moosejawcom,Moosejaw-Product-Catalog_IR.txt.gz,Moosejaw-Product-Catalog_IR.txt.gz,,,,1,1,1,1,1
+138,eBags,impactradius,FTP,ps-ftp_11061,qJaJLi6L26,products.impactradius.com,eBags,eBags-Product-Catalog_IR.txt.gz,eBags-Product-Catalog_IR.txt.gz,,,,1,1,1,1,1
+143,Teva,impactradius,FTP,ps-ftp_11061,qJaJLi6L26,products.impactradius.com,Teva,Teva-Product-Feed_IR.txt.gz,Teva-Product-Feed_IR.txt.gz,,,,1,1,1,1,1
+152,Adorama,impactradius,FTP,ps-ftp_11061,qJaJLi6L26,products.impactradius.com,Adorama,Adorama-product-feed_IR.txt.gz,Adorama-product-feed_IR.txt.gz,,,,1,1,1,1,1
+162,Jewelry.com,impactradius,FTP,ps-ftp_11061,qJaJLi6L26,products.impactradius.com,Jewelrycom,Jewelrycom-Product-Catalog_IR.txt.gz,Jewelrycom-Product-Catalog_IR.txt.gz,,,,1,1,1,1,1
+184,Belkin,impactradius,FTP,ps-ftp_11061,qJaJLi6L26,products.impactradius.com,Belkin-US,Belkin-US-Product-Catalog_IR.txt.gz,Belkin-US-Product-Catalog_IR.txt.gz,,,,1,1,1,1,1
+148,UGG,impactradius,FTP,ps-ftp_11061,qJaJLi6L26,products.impactradius.com,UGG,UGG-Australia_IR.txt.gz,UGG-Australia_IR.txt.gz,,,,1,1,1,1,1
